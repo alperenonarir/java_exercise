@@ -1,3 +1,4 @@
+// 24 Ekim 2020
 // 2-) Kelime alma ve yazdırma
 
 import java.util.Scanner;
