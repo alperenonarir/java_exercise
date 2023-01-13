@@ -1,5 +1,6 @@
 // 24 Ekim 2020
 // Para bozan ve duruma göre ekle-cikar yapan program
+//
 
 import java.util.Scanner;
 

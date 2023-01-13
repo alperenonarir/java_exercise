@@ -1,5 +1,6 @@
 // 24 Ekim 2020
 // Girilen sayılara göre üst alma işlemi
+//
 
 import java.util.Scanner;
 
